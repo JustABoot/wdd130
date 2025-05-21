@@ -6,6 +6,43 @@
 }
 
 
-footer{
-    margin-top: 20px;
+main {
+  max-width: 800px;
+  margin:auto;
+  padding: 1rem;
+}
+
+
+aside {
+  width: 20rem;
+  margin: 1rem auto; 
+  border: 1px solid rgba(255, 255, 255, 0.348);
+  padding: 1rem;
+  background-color: #1f1f24;
+  color: #fff;
+  text-align: center;
+}
+
+
+aside img {
+  width: 200px;
+  height: auto;
+}
+
+
+main img {
+  width: 150px;
+  height: auto;
+}
+
+
+p {
+  padding: 0;
+}
+
+
+footer {
+  margin-top: 15px;
+  border-top: 1px solid #fff;
+  text-align: center;
 }
